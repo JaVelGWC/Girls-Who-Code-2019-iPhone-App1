@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskRandomizerController.swift"
+            timestampString = "584405069.553046"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "TaskRandomizerController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iRecommend_Task.TaskRandomizerController.mainIMG.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "iRecommend Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/JACKIE%20GWC/iRecommend%20Task/TaskRandomizerController.swift"
+                  timestampString = "584403420.304319"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iRecommend_Task.TaskRandomizerController.mainIMG.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "iRecommend Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/JACKIE%20GWC/iRecommend%20Task/TaskRandomizerController.swift"
+                  timestampString = "584403420.308256"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iRecommend_Task.TaskRandomizerController.mainIMG.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "iRecommend Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/JACKIE%20GWC/iRecommend%20Task/TaskRandomizerController.swift"
+                  timestampString = "584403420.311664"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iRecommend_Task.TaskRandomizerController.mainIMG.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "iRecommend Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/JACKIE%20GWC/iRecommend%20Task/TaskRandomizerController.swift"
+                  timestampString = "584403420.313683"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iRecommend_Task.TaskRandomizerController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; iRecommend_Task.TaskRandomizerController"
+                  moduleName = "iRecommend Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/JACKIE%20GWC/iRecommend%20Task/TaskRandomizerController.swift"
+                  timestampString = "584403420.315713"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "178">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iRecommend_Task.TaskRandomizerController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iRecommend_Task.TaskRandomizerController&gt;"
+                  moduleName = "iRecommend Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/JACKIE%20GWC/iRecommend%20Task/TaskRandomizerController.swift"
+                  timestampString = "584403420.317956"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
